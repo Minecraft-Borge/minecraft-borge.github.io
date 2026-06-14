@@ -1,8 +1,8 @@
 <Versions>
   <Client>
-    <version minecraft="b1.7.3">1.3.1</version>
+    <version minecraft="b1.7.3">1.3.2</version>
   </Client>
   <Server>
-    <version minecraft="b1.7.3">1.3.1</version>
+    <version minecraft="b1.7.3">1.3.2</version>
   </Server>
 </Versions>
