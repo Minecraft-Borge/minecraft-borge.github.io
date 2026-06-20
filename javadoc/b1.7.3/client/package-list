@@ -1,0 +1,17 @@
+net.minecraftborge
+net.minecraftborge.loader
+net.minecraftborge.loader.asm
+net.minecraftborge.loader.asm.mixin
+net.minecraftborge.loader.capability
+net.minecraftborge.loader.event
+net.minecraftborge.loader.event.entity
+net.minecraftborge.loader.event.entity.player
+net.minecraftborge.loader.event.gui
+net.minecraftborge.loader.event.lifecycle
+net.minecraftborge.loader.event.misc
+net.minecraftborge.loader.event.register
+net.minecraftborge.loader.event.world
+net.minecraftborge.loader.event.world.chunk
+net.minecraftborge.loader.loading
+net.minecraftborge.loader.net
+net.minecraftborge.loader.tag
